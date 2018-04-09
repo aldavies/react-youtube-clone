@@ -23,3 +23,7 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
+1. Look into the src folder and within the components folder you are able to change what is displayed when running npm start. Within the index.html you'll also see the bundle.js javascript file which is what webpack creates when compiling all our Javascript files
+
+2. 
